@@ -4,6 +4,8 @@ import { Link } from "react-router-dom";
 import code9 from "../images/code9.jpg";
 import code8 from "../images/code8.jpg";
 
+
+
 const AboutContent = () => {
     return (
         <div className="about">
