@@ -28,7 +28,11 @@ const AboutContent = () => {
 
                     </div>
                 </div>
+                <div>
+                    
+                </div>
             </div></div>
+        
     )
 };
 export default AboutContent;
