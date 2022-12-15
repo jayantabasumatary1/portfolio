@@ -1,2 +1,1 @@
-<a href="https://snyk.io/test/github/{username}/{repo}">
-[![Known Vulnerabilities](https://snyk.io/test/github/jayantabasumatary1/portfolio/badge.svg)](https://snyk.io/test/github/jayantabasumatary1/portfolio)
+[![Example workflow for Python using Snyk](https://github.com/jayantabasumatary1/portfolio/actions/workflows/main.yml/badge.svg)](https://github.com/jayantabasumatary1/portfolio/actions/workflows/main.yml)
